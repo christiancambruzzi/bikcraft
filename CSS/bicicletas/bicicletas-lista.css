@@ -15,7 +15,7 @@
   max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 
 #bicicleta .bicicletas-lista ul{
